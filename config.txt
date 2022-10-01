@@ -1,0 +1,23 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx66c628b43b5a9041",
+# 公众号appSecret
+"app_secret": "e367b2b01a6d57ac72c3027f2dfb9175",
+# 模板消息id
+"template_id": "IXG5VA8rCTV5859bTpiQk3YL5Y6Q4ULdFhjPVq6Re0o",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["omTBz6FXWwTVwkKYVN3wr6dpSmsI"],
+
+# 信息配置
+#和风天气apikey
+"weather_key":"965349e652544643bd43044d58e9fb42",
+# 所在省份
+"province": "宁夏回族自治区",
+# 所在城市
+"city": "银川市",
+# 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
+"birthday1": {"name": "杨媛媛", "birthday": "2001-06-07"},
+# 在一起的日子，格式同上
+"love_date": "2021-01-28"
+}
